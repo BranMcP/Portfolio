@@ -16,4 +16,5 @@ Some of the topics I have learned about so far include:
 * Object Oriented Design
 * Data Structures
 * Software Engineering
+
 In the future, I hope to add more projects that will demonstrate my understanding of these topics, and I will work towards honing my abilities to make myself a better programmer and software engineer.
